@@ -1,5 +1,5 @@
 {
-  "name": "simplefolio",
+  "name": "crommelg-portfolio",
   "version": "1.0.1",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elcajo/elcajo.github.io" 
+    "url": "https://github.com/elcajo/crommelg-portfolio" 
   },
   "keywords": [],
   "author": "Rommel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elcajo/elcajo.github.io/issues"
+    "url": "https://github.com/elcajo/crommelg-portfolio"
   },
-  "homepage": "https://github.com/elcajo/elcajo.github.io#readme",
+  "homepage": "https://github.com/elcajo/crommelg-portfolio",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
