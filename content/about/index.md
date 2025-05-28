@@ -3,20 +3,20 @@ title: 'About Me'
 avatar: 'me.jpg'
 skills:
   - Coding
-  - Reading
-  - Painting
-  - Crafting
-  - Problem Solving
+  - Hiking
+  - Traveling
+  - Photography
+  - Gaming
   - Team Management
-  - Mentoring
+  - Volunteering
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+Hello! I am Rommel—my friends call me Mel. from the City of Golden Friendship—Cagayan de Oro City, Philippines.
 
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
+I am a straightforward and dependable developer who values clean execution and continuous growth. I enjoy figuring things out, fixing what’s broken, solving issues, and learning better ways to get things done
 
-I am pursuing my Bachelors from [SVVV, Indore](https://www.svvv.edu.in/) in Computer Science and Engineering (2018-2022) my current GPA is [3.7]() out of 4.
+I graduated in Bachelor of Science in Information Technology Major in Database Systems in Mindanao State University at Naawan on the year 2018.
 
-I am a member of [Developer Student Club - SVVV](https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/) and have also been awarded 75% Merit Scholarship(Top 10%) by my college.
+Before joining a global IT services firm, I wore many hats—from being a graphic designer, photographer and front-end web developer to a hands-on computer technician. These early experiences shaped my curiosity and passion for tech, giving me a well-rounded foundation beyond code. I also enjoy connecting with fellow developers and have been actively involved in our local Google Developer Group community.
 
 Here are a few of the other activities that I love to do!

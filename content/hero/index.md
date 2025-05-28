@@ -1,10 +1,8 @@
 ---
 title: 'Hello, my name is'
-name: 'Yashita Namdeo'
-subtitle: 'I love exploring new things!'
+name: 'Rommel Galarpe'
+subtitle: 'I am the Developer you need!'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Final Year Computer Science Engineering Student at SVVV, Indore. Primarily interested in Web Development and Data Science.
-
-I enjoy learning new skills and implementing them in real life!
+Currently working at a well-established global IT services firm for the past four years, I am now exploring new opportunities that offer professional and financial growth, along with greater challenges—ideally in a role where I can make a meaningful impact and continue expanding my expertise.
