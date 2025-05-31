@@ -145,9 +145,9 @@ const Projects = ({ data }) => {
 
   return (
     <StyledContainer>
-      <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
+      <StyledTitle ref={revealTitle}>Other Noteworthy Experience</StyledTitle>
       <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-        View Complete List of Projects/Codes
+        View Complete List of Experience Archive
       </StyledArchiveLink>
 
       <StyledGrid>

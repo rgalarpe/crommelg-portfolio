@@ -3,4 +3,8 @@ title: 'Get In Touch'
 buttonText: 'Mail Me'
 ---
 
-My inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you! Feel free to mail me about any relevant job updates.
+I'm open to new opportunities and always happy to connect. If you think I might be a good fit for your team or project, feel free to reach out — I’ll do my best to respond promptly.
+
+`Available Hours`
+
+Weekdays: 9:00 PM - 11:00 PM | Weekends: 9:00 AM - 6:00 PM
