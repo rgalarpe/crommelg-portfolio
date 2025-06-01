@@ -7,4 +7,4 @@ I'm open to new opportunities and always happy to connect. If you think I might 
 
 `Available Hours`
 
-Weekdays: 9:00 PM - 11:00 PM | Weekends: 9:00 AM - 6:00 PM
+Weekdays: 9:00 PM - 11:00 PM (UTC +8:00) | Weekends: 9:00 AM - 6:00 PM (UTC +8:00)
