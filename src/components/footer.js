@@ -107,7 +107,6 @@ const Footer = () => {
             Revised by Rommel Galarpe
           </div>
 
-          
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
