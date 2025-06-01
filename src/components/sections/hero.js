@@ -83,7 +83,11 @@ const Hero = ({ data }) => {
   );
   const five = () => (
     <div style={{ transitionDelay: '500ms' }}>
-      <StyledEmailLink href={`mailto:${email}`}>Get In Touch</StyledEmailLink>
+      <StyledEmailLink
+        href={`https://mail.google.com/mail/?view=cm&fs=1&to=${email}`}
+        target="_blank"
+        rel="noopener noreferrer"
+      >Get In Touch</StyledEmailLink>
     </div>
   );
 

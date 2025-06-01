@@ -57,7 +57,11 @@ const Contact = ({ data }) => {
 
       <div dangerouslySetInnerHTML={{ __html: html }} />
 
-      <StyledEmailLink href={`mailto:${email}`} target="_blank" rel="nofollow noopener noreferrer">
+      <StyledEmailLink
+        href={`https://mail.google.com/mail/?view=cm&fs=1&to=${email}`}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         {buttonText}
       </StyledEmailLink>
     </StyledContainer>
