@@ -1,15 +1,15 @@
 module.exports = {
   siteTitle: 'Rommel Galarpe',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'I am Rommel Galarpe and this is my portfolio',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Rommel Galarpe, Software Engineer, Portfolio, crommelg, software engineer, web developer, javascript, python, java',
+  siteUrl: 'https://rommelportfolio.netlify.app/',
   siteLanguage: 'en_US',
   // googleAnalyticsID: 'UA-45666519-2',
   // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Rommel Galarpe',
-  location: 'Indore, India',
+  location: 'Metro Manila, Philippines',
   email: 'rommelc.galarpe@gmail.com',
   github: 'https://github.com/rgalarpe',
   twitterHandle: '@',
