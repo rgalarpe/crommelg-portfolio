@@ -1,7 +1,5 @@
-
-
 <div align="center">
-  <img alt="Demo" src="https://github.com/yashitanamdeo/yashitanamdeo.github.io/blob/source/src/images/demo.png" />
+  <img alt="Demo" src="" />
 </div>
 
 ### TL;DR
